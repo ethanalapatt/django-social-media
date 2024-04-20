@@ -1,1 +1,1 @@
-# django-social-media
+# django-google
